@@ -1,8 +1,6 @@
 # Tire Condition Classifier
 This repository contains a machine learning project aimed at classifying the condition of car tires as **Good** or **Defective** using convolutional neural networks (CNNs) and transfer learning with VGG16.
 
-Watch a demonstration of the project in action in the following [video](#).
-
 ![Tire Classification Model](./imgs/tire_classification_image.png)
 
 ## Motivation
