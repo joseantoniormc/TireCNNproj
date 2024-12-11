@@ -37,13 +37,6 @@ To improve generalization, the following techniques were applied:
 | Base CNN       | Yes          | 80%      |
 | VGG16          | Yes          | 95%      |
 
-## Deployment Applications
-This project has potential applications in:
-- **Mobile Applications**: Snap a picture of your tire to assess its condition.
-- **Fleet Management**: Automate tire monitoring for commercial fleets.
-- **Automotive Service Centers**: Speed up tire diagnostics.
-- **Insurance Evaluations**: Assess tire condition for insurance claims.
-
 ## How to Build and Run
 Clone this repository and install the dependencies:
 
